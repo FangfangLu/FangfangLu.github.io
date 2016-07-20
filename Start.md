@@ -3,7 +3,7 @@ layout:    page
 permalink: "/Start/"
 author:    Cindy
 weight:    5
-menutitle: Offline
+menutitle: Start Guide
 title:     Start Guide
 excerpt:   关于博客，以及关于如何使用博客
 ---
