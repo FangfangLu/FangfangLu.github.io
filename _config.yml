@@ -7,14 +7,13 @@
 
 # Site settings
 title:        雪泥鸿爪
-subtitle:     Example Blog
-description:  This is the jekyllTheme example blog. It only exists to demonstrate how the theme looks and feels.
-keywords:     demo theme example github jekyll features
+subtitle:     谁画出这天地 又画下我和你
+description:  My first blog
 language:     "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
 baseurl:      "" # the subpath of your site, e.g. /blog
 url:          "fangfang.lu" # the base hostname & protocol for your site. Have a look at robots.txt as well!
-permalink:    /blog/:categories/:title
+permalink:    none
 cover:        /assets/mountain-cover.jpg
 
 # Build settings
